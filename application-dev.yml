@@ -1,2 +1,3 @@
 config:
-  param: dev
+  username: dev_user
+  password: pass_user
