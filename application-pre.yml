@@ -1,3 +1,4 @@
 config:
-  param: pre
-  param1: hello
+  username: pre_user
+  password: pre_pass
+
