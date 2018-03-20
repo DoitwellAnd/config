@@ -1,2 +1,3 @@
-username: dev_user
-password: dev_pass
+config:
+  username: dev_user
+  password: dev_pass
